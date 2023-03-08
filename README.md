@@ -226,10 +226,6 @@ git clone --depth 1 https://github.com/ffffffff0x/1earn.git
 
 ---
 
-## 联系我
-
-- 如果你有任何其他方面的问题或建议，可以在 issue 提出或发送邮件至 D2hwakH7BS5E@protonmail.com
-
 ---
 
 ## Disclaimer&License
